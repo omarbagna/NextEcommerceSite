@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef } from 'react';
 
 const Cart = () => {
 	return <div>Cart</div>;
